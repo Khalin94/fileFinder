@@ -81,7 +81,11 @@ public class App
         //     }
 
         // }
-        showPathInFile("C:"+File.separator+"Users"+File.separator+"LG"+File.separator+"Documents"+File.separator+"workspace-spring-tool-suite-4-4.8.0.RELEASE"+File.separator+"DSDM-Web"+File.separator+"WebApp"+File.separator+"sitemap");
+        // showPathInFile("C:"+File.separator+"Users"+File.separator+"LG"+File.separator+"Documents"+File.separator+"workspace-spring-tool-suite-4-4.8.0.RELEASE"+File.separator+"DSDM-Web"+File.separator+"WebApp"+File.separator+"sitemap");
+        String projectPath = System.getProperty("user.dir");
+        System.out.println("path : " + projectPath);
+        showPathInFile(projectPath + File.separator + "sample" + File.separator + "reqsubmit" + File.separator + "25_total" + File.separator + "30_reqlistsh" + File.separator + "20_nonsub");
+        //System.out.println("count : " + count);
     }
 
     //실제 존재하는 파일의 이름 저장
@@ -135,6 +139,7 @@ public class App
                                 //     break;
                                 // }
                                 System.out.println(matcher.group(0));
+                                count++;
                             }
                             
                         }
