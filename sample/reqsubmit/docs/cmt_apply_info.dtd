@@ -1,0 +1,10 @@
+<!ELEMENT cmt_apply_info (cmt_organ_nm , req_organ_nm ,apply_date,req_info_list )>
+<!ELEMENT cmt_organ_nm (#PCDATA)>
+<!ELEMENT req_organ_nm (#PCDATA)>
+<!ELEMENT apply_date (#PCDATA)>
+<!ELEMENT req_info_list (req_info*)>
+<!ELEMENT req_info (submt_organ_nm,req_cont,req_dtl_cont,etc)>
+<!ELEMENT submt_organ_nm (#PCDATA)>
+<!ELEMENT req_cont (#PCDATA)>
+<!ELEMENT req_dtl_cont (#PCDATA)>
+<!ELEMENT etc (#PCDATA)>
