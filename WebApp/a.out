@@ -1,0 +1,66 @@
+./common/LeftMenu.jsp:    <td align="center" valign="top"><a href="javascript:fun_bottomhomepage('http://mail.assembly.go.kr','국회메일')"><img src="/image/common/ban_mail_sub.gif" width="173" height="30" border="0"></a></td>
+./common/TopMenu4Sub.jsp:        <a href="javascript:openPopLeftMenu('http://www.assembly.go.kr:8000/cal/html/index.html');">위원회 의사일정</a>&nbsp;&nbsp;<img src="/image/reqsubmit/icon_reqsubmit_navi.gif" width="3" height="6" align="absmiddle"> 
+./common/TopMenu4Sub.jsp:		<a href="javascript:openPopLeftMenu('http://www.assembly.go.kr:8000/cal/html/index.html');">의사일정</a>
+./common/TopMenu4Req.jsp:		<a href="javascript:openPopLeftMenu('http://www.assembly.go.kr:8000/cal/html/index.html');">의사일정</a>
+./common/LeftOrganMenu.jsp:          <option value="http://search.assembly.go.kr">입법통합지식관리시스템</option>
+./common/LeftOrganMenu.jsp:          <option value="http://www3.assembly.go.kr/constitution">헌법지식DB</option>
+./common/LeftOrganMenu.jsp:          <option value="http://search.assembly.go.kr/assembly">국회관계법지식DB</option>
+./common/LeftOrganMenu.jsp:          <option value="http://search.assembly.go.kr/election">정치관계법지식DB</option>
+./common/LeftOrganMenu.jsp:          <option value="http://www.assembly.go.kr:8000/oth/html/index_1.html">국회공보</option>
+./common/LeftOrganMenu.jsp:          <option value="http://review.assembly.go.kr">국회보</option>
+./common/LeftOrganMenu.jsp:          <option value="http://publication.assembly.go.kr:8888/ebook/index.jsp">국회발간자료</option>
+./common/LeftOrganMenu.jsp:          <option value="http://www.assembly.go.kr:8000/oth/html/index_2.html">경과보고서</option>
+./common/LeftOrganMenu.jsp:          <option value="http://www.assembly.go.kr:8000/guide/index.html">국회안내시스템</option>
+./common/LeftOrganMenu.jsp:          <option value="http://www.assembly.go.kr/">국회</option>
+./common/LeftOrganMenu.jsp:          <option value="http://www.assembly.go.kr:8000/chr/html/index.html">국회의장</option>
+./common/LeftOrganMenu.jsp:          <option value="http://www.assembly.go.kr:8000/mem/html/index.html">국회의원</option>
+./common/LeftOrganMenu.jsp:          <option value="http://committee.assembly.go.kr/">위원회</option>
+./common/LeftOrganMenu.jsp:          <option value="http://nas.assembly.go.kr/">국회사무처</option>
+./common/LeftOrganMenu.jsp:          <option value="http://memorial.assembly.go.kr/">헌정기념관</option>
+./common/ControlAccess.jsp:					strUrl = "http://docs.assembly.go.kr/EP/web/login/assem_sso_login.jsp";
+./common/ControlAccess.jsp:					strUrl = "http://docs.assembly.go.kr/EP/web/login_idir/AEP_BusinessCard_SSO.jsp";
+./common/ControlAccess.jsp:					strUrl = "http://docs.assembly.go.kr/EP/web/login_idir/AEP_Schedule_SSO.jsp";
+./common/LeftLinkMenu.jsp:				<td align="left" height="35">&nbsp;&nbsp;<a href="javascript:fun_bottomhomepage('http://www.assembly.go.kr:8000/cal/html/index.html','의사일정')" onfocus="this.blur()"><img src="/image/common/ban_agenda.gif" border="0"></a></td>
+./infosearch/ISearch_All06.jsp:    <td width="552"><img src="http://search.assembly.go.kr:8080/record/index/img/tile_img.gif" hspace="4" vspace="4"></td>
+./infosearch/ISearch_All06.jsp:  		<form name=searchform method=post action="http://search.assembly.go.kr:8080/record/index/../unity/uni_search1.jsp" onsubmit="return Check();">
+./infosearch/ISearch_All06.jsp:            <td><img src="http://search.assembly.go.kr:8080/record/index/img/index_text2.gif" width="84" height="20"></td>
+./infosearch/ISearch_All06.jsp:            <td><img src="http://search.assembly.go.kr:8080/record/index/img/item_text2.gif" width="84" height="20"></td>
+./infosearch/ISearch_All06.jsp:              </select><img src="http://search.assembly.go.kr:8080/record/index/img/text7.gif" width="20" height="20" align="absmiddle"><select name="DAE2" class=text5 onChange="javascript:change();">
+./infosearch/ISearch_All06.jsp:        href="javascript:winOpen('http://search.assembly.go.kr:8080/record/index/../shelp.html')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image2','','http://search.assembly.go.kr:8080/record/index/img/help_but_h.gif',1)"><img src="http://search.assembly.go.kr:8080/record/index/img/help_but.gif" width="57" height="19" border="0" name="Image2"></a></td>
+./infosearch/ISearch_All06.jsp:            <td><img src="http://search.assembly.go.kr:8080/record/index/img/item_text4.gif" width="84" height="20"></td>
+./infosearch/ISearch_All06.jsp:           </select><img src="http://search.assembly.go.kr:8080/record/index/img/text7.gif" width="20" height="20" align="absmiddle"><select name="SES2" class="text5">
+./infosearch/ISearch_All06.jsp:            <td><img src="http://search.assembly.go.kr:8080/record/index/img/item_text3.gif" width="84" height="20"></td>
+./infosearch/ISearch_All06.jsp:            <td><img src="http://search.assembly.go.kr:8080/record/index/img/index_text4.gif" width="84" height="20"></td>
+./infosearch/ISearch_All06.jsp:              <img src="http://search.assembly.go.kr:8080/record/index/img/text7.gif" width="20" height="20" align="absmiddle"> 
+./infosearch/ISearch_All06.jsp:            <td><img src="http://search.assembly.go.kr:8080/record/index/img/item_text8.gif" width="84" height="20"></td>
+./infosearch/ISearch_All06.jsp:            <td><img src="http://search.assembly.go.kr:8080/record/index/img/item_text9.gif" width="84" height="20"></td>
+./infosearch/ISearch_All06.jsp:            <td><img src="http://search.assembly.go.kr:8080/record/index/img/item_text10.gif" width="84" height="20"></td>
+./infosearch/ISearch_All06.jsp:			<td align="right"><input type=image name="submit"  src="http://search.assembly.go.kr:8080/record/index/../item/img/button_search.gif" width="64" height="19" border="0">
+./infosearch/ISearch_All06.jsp:                <a href="ind_search1.jsp"><img src="http://search.assembly.go.kr:8080/record/index/../item/img/button_cancel.gif" width="64" height="19" border="0"></a> &nbsp;&nbsp;&nbsp; 
+./infosearch/ISearch_All06.jsp:<form  method="post"  name="searchform2" action="http://search.assembly.go.kr:8080/record/index/ind_search1.jsp">
+./reqsubmit/10_mem/20_reqboxsh/10_make/RMakeReqDocSendProc.jsp:				out.println("<FORM method='post' action='http://docs.assembly.go.kr/acubecn/legacy/ACN_LegacyBridge.jsp' name='elcForm'>");
+./reqsubmit/10_mem/20_reqboxsh/40_commreq/RCommPopUpApply.jsp:			   addAcube = window.open("http://docs.assembly.go.kr/acubecn/legacy/ACN_LegacyBridge.jsp","addAcube",
+./reqsubmit/10_mem/20_reqboxsh/40_commreq/RCommPopUpApply.jsp:			<form name="formName" method="POST" action="http://docs.assembly.go.kr/acubecn/legacy/ACN_LegacyBridge.jsp" >				
+./reqsubmit/acube/Acube.jsp:			   addAcube = window.open("http://docs.assembly.go.kr/acubecn/legacy/ACN_LegacyBridge.jsp","addAcube",
+./reqsubmit/acube/Acube.jsp:<!--				<form name="form1" method="get" action="http://docs.assembly.go.kr/acubecn/legacy/CN_AssemLegacyBridge.jsp">				-->
+./reqsubmit/acube/Acube.jsp:				<form name="form1" method="POST" action="http://docs.assembly.go.kr/acubecn/legacy/CN_AssemLegacyBridge.jsp" >				
+./reqsubmit/common/MenuLeftReqsubmit.jsp:    <td align="center" valign="top"><a href="javascript:fun_bottomhomepage('http://mail.assembly.go.kr','국회메일')"><img src="/image/common/ban_mail_sub.gif" width="173" height="30" border="0"></a></td>
+./reqsubmit/ums/SmtpWeb.jsp:						        <TEXTAREA  name="contents" cols="103" rows="8" value=""><%=webURL%>/newsletter/ReqOffiDoc.jsp?title=서류요구&sendname=김동수&reqname=안상수의원실&reqtitle=2004년 건설교통부 예산 사용내역 관련&reqtel=02-788-2060&reqmail=Master@assembly.go.kr</TEXTAREA>        
+./main/MainLeft.jsp:                <td align="center" valign="top"><a href="javascript:fun_bottomhomepage('http://docs.assembly.go.kr/EP/web/login/assem_sso_login.jsp','국회전자문서시스템')"><img src="image/main/ban_elect.gif" width="233" height="30" border="0"></a></td>
+./main/MainLeft.jsp:                <td align="center" valign="top"><a href="javascript:fun_bottomhomepage('http://mail.assembly.go.kr','국회메일')"><img src="image/main/ban_mail.gif" width="233" height="30" border="0"></a></td>
+./main/MainLeft.jsp:                <td align="center" valign="top"><a href="javascript:fun_bottomhomepage('http://www.assembly.go.kr:8000/cal/html/index.html','의사일정')"><img src="image/main/ban_agenda.gif" width="233" height="30" border="0"></a></td>
+./main/MainLeft.jsp:                          <option value="http://search.assembly.go.kr">입법통합지식관리시스템</option>
+./main/MainLeft.jsp:                          <option value="http://www3.assembly.go.kr/constitution">헌법지식DB</option>
+./main/MainLeft.jsp:                          <option value="http://search.assembly.go.kr/assembly">국회관계법지식DB</option>
+./main/MainLeft.jsp:                          <option value="http://search.assembly.go.kr/election">정치관계법지식DB</option>
+./main/MainLeft.jsp:                          <option value="http://www.assembly.go.kr:8000/oth/html/index_1.html">국회공보</option>
+./main/MainLeft.jsp:                          <option value="http://review.assembly.go.kr">국회보</option>
+./main/MainLeft.jsp:                          <option value="http://publication.assembly.go.kr:8888/ebook/index.jsp">국회발간자료</option>
+./main/MainLeft.jsp:                          <option value="http://www.assembly.go.kr:8000/oth/html/index_2.html">경과보고서</option>
+./main/MainLeft.jsp:                          <option value="http://www.assembly.go.kr:8000/guide/index.html">국회안내시스템</option>
+./main/MainLeft.jsp:                          <option value="http://www.assembly.go.kr/">국회</option>
+./main/MainLeft.jsp:                          <option value="http://www.assembly.go.kr:8000/chr/html/index.html">국회의장</option>
+./main/MainLeft.jsp:                          <option value="http://www.assembly.go.kr:8000/mem/html/index.html">국회의원</option>
+./main/MainLeft.jsp:                          <option value="http://committee.assembly.go.kr/">위원회</option>
+./main/MainLeft.jsp:                          <option value="http://nas.assembly.go.kr/">국회사무처</option>
+./main/MainLeft.jsp:                          <option value="http://memorial.assembly.go.kr/">헌정기념관</option>

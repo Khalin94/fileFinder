@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<web-app xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <context-param>
+    <param-name>weblogic.httpd.inputCharset./*</param-name>
+    <param-value>EUC_KR</param-value>
+  </context-param>
+  <listener>
+    <listener-class>nads.lib.util.SessionCount</listener-class>
+  </listener>
+  <servlet>
+    <servlet-name>AttachFileDownLoadServlet</servlet-name>
+    <servlet-class>nads.dsdm.app.reqsubmit.delegate.servlet.AttachFileDownLoadServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>FastWebViewPdf</servlet-name>
+    <servlet-class>nads.dsdm.app.reqsubmit.delegate.servlet.FastWebViewPdf</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>OrgFileDownLoad</servlet-name>
+    <servlet-class>nads.dsdm.app.reqsubmit.delegate.servlet.OrgFileDownLoad</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>ServletServlet</servlet-name>
+    <servlet-class>weblogic.servlet.ServletServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ServletServlet</servlet-name>
+    <url-pattern>/servlet/*</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>FastWebViewPdf</servlet-name>
+    <url-pattern>/responsePDF</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>OrgFileDownLoad</servlet-name>
+    <url-pattern>/responseDOC</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AttachFileDownLoadServlet</servlet-name>
+    <url-pattern>/attachFileDowlLoad</url-pattern>
+  </servlet-mapping>
+   <servlet>
+      <servlet-name>/servlet/transkeyServlet</servlet-name>
+        <servlet-class>com.raonsecure.transkey.servlet.TranskeyServlet</servlet-class>
+        <init-param> 
+			<param-name>iniFilePath</param-name> 
+			<param-value>/WEB-INF/raonsecure/config.ini</param-value>
+		</init-param>
+    <init-param>
+			<param-name>licenseIniPath</param-name>
+			<param-value>/WEB-INF/raonsecure/transkey_license.ini</param-value>
+		</init-param>
+    <load-on-startup>1</load-on-startup>
+	</servlet>
+    
+  <servlet-mapping>
+    <servlet-name>/servlet/transkeyServlet</servlet-name>
+    <url-pattern>/servlet/transkeyServlet</url-pattern>
+  </servlet-mapping>
+
+
+<mime-mapping>
+	<extension>xml</extension>
+	<mime-type>text/xml</mime-type>
+</mime-mapping>
+
+
+
+
+  <welcome-file-list>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>index.html</welcome-file>
+  </welcome-file-list>
+    <error-page>
+        <error-code>400</error-code>
+        <location>/errorIndex.jsp</location>
+    </error-page>
+
+	<error-page>
+        <error-code>401</error-code>
+        <location>/errorIndex.jsp</location>
+    </error-page>
+
+	<error-page>
+        <error-code>402</error-code>
+        <location>/errorIndex.jsp</location>
+    </error-page>
+
+	<error-page>
+        <error-code>403</error-code>
+        <location>/errorIndex.jsp</location>
+    </error-page>
+
+	<error-page>
+        <error-code>404</error-code>
+        <location>/errorIndex.jsp</location>
+    </error-page>
+
+    <error-page>
+        <error-code>500</error-code>
+        <location>/errorIndex.jsp</location>
+    </error-page>
+
+	<error-page>
+        <error-code>503</error-code>
+        <location>/errorIndex.jsp</location>
+    </error-page>
+</web-app>

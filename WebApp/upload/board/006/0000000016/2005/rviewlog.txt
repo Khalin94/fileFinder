@@ -1,0 +1,2612 @@
+03/02/05 14:07:58 -> Use WinSock2
+03/02/05 14:07:58 -> CreateEventWindow() Start
+03/02/05 14:07:58 -> CreateEventWindow() End
+03/02/05 14:07:58 -> SvcAddr:218.237.53.142, SvcPort:443
+03/02/05 14:07:58 -> SvrAddr:192.168.45.119, SvrPort:9600
+03/02/05 14:07:58 -> ProxyAddr:, ProxyPort:0
+03/02/05 14:07:58 -> Config:
+03/02/05 14:07:58 -> Try Direct Connectting...
+03/02/05 14:07:58 -> Direct Connect to Addr:192.168.45.119, Port:9600
+03/02/05 14:08:01 -> Rsup Connect failed. Time out
+03/02/05 14:08:01 -> Try Demon Connectting...
+03/02/05 14:08:01 -> SockDemon->Read(szBuff, 8) OK
+03/02/05 14:08:01 -> SonicOK!
+03/02/05 14:08:01 -> Client Thread Create OK
+03/02/05 14:08:01 -> -- Start WM_SOCKEVENT_RSUP
+03/02/05 14:08:01 -> Start Client Thread...
+03/02/05 14:08:01 -> Init Service
+03/02/05 14:08:01 -> SetSystemHookEx
+03/02/05 14:08:01 -> Sended Message to RView Agent
+03/02/05 14:08:01 -> EventWindow - STATUS_CONNECT
+03/02/05 14:08:33 -> Socket.ReadExact() Error
+03/02/05 14:08:33 -> WSAGetLastError() = 183
+03/02/05 14:08:33 -> RemoteControl End!
+03/02/05 14:08:33 -> Thread window Closed
+03/02/05 16:02:42 -> Use WinSock2
+03/02/05 16:02:42 -> CreateEventWindow() Start
+03/02/05 16:02:42 -> CreateEventWindow() End
+03/02/05 16:02:42 -> SvcAddr:218.237.53.142, SvcPort:443
+03/02/05 16:02:42 -> SvrAddr:192.168.45.119, SvrPort:9600
+03/02/05 16:02:42 -> ProxyAddr:, ProxyPort:0
+03/02/05 16:02:42 -> Config:
+03/02/05 16:02:42 -> Try Direct Connectting...
+03/02/05 16:02:42 -> Direct Connect to Addr:192.168.45.119, Port:9600
+03/02/05 16:02:45 -> Rsup Connect failed. Time out
+03/02/05 16:02:45 -> Try Demon Connectting...
+03/02/05 16:02:45 -> SockDemon->Read(szBuff, 8) OK
+03/02/05 16:02:45 -> SonicOK!
+03/02/05 16:02:45 -> Client Thread Create OK
+03/02/05 16:02:45 -> Start Client Thread...
+03/02/05 16:02:45 -> -- Start WM_SOCKEVENT_RSUP
+03/02/05 16:02:45 -> Init Service
+03/02/05 16:02:45 -> SetSystemHookEx
+03/02/05 16:02:45 -> Sended Message to RView Agent
+03/02/05 16:02:45 -> EventWindow - STATUS_CONNECT
+03/02/05 16:56:37 -> Socket.ReadExact() Error
+03/02/05 16:56:37 -> WSAGetLastError() = 183
+03/02/05 16:56:37 -> RemoteControl End!
+03/02/05 16:56:37 -> Thread window Closed
+03/02/05 17:00:34 -> Use WinSock2
+03/02/05 17:00:34 -> CreateEventWindow() Start
+03/02/05 17:00:34 -> CreateEventWindow() End
+03/02/05 17:00:34 -> SvcAddr:218.237.53.142, SvcPort:443
+03/02/05 17:00:34 -> SvrAddr:192.168.45.119, SvrPort:9600
+03/02/05 17:00:34 -> ProxyAddr:, ProxyPort:0
+03/02/05 17:00:34 -> Config:
+03/02/05 17:00:34 -> Try Direct Connectting...
+03/02/05 17:00:34 -> Direct Connect to Addr:192.168.45.119, Port:9600
+03/02/05 17:00:37 -> Rsup Connect failed. Time out
+03/02/05 17:00:37 -> Try Demon Connectting...
+03/02/05 17:00:37 -> SockDemon->Read(szBuff, 8) OK
+03/02/05 17:00:37 -> SonicOK!
+03/02/05 17:00:37 -> Client Thread Create OK
+03/02/05 17:00:37 -> -- Start WM_SOCKEVENT_RSUP
+03/02/05 17:00:37 -> Start Client Thread...
+03/02/05 17:00:37 -> Init Service
+03/02/05 17:00:37 -> SetSystemHookEx
+03/02/05 17:00:37 -> Sended Message to RView Agent
+03/02/05 17:00:37 -> EventWindow - STATUS_CONNECT
+03/02/05 17:55:11 -> -- Command Start --
+03/02/05 17:55:11 -> cmd.datasize=31
+03/02/05 17:55:11 -> Start CMD_CHAT
+03/02/05 17:55:11 -> rmtchat.dll
+03/02/05 17:55:11 -> C:\WINNT\TEMP\rmtchat.dll
+03/02/05 17:55:11 -> -- Command End --
+03/02/05 17:55:11 -> UM_COMMAND Start
+03/02/05 17:55:11 -> Start CreateChat
+03/02/05 17:55:11 -> Start End CreateChat
+03/02/05 17:55:11 -> C:\Program Files\RSUPPORT\Remote View Agent 2.0\rmtchat.dll
+03/02/05 17:55:13 -> -- Command Start --
+03/02/05 17:55:13 -> cmd.datasize=0
+03/02/05 17:55:13 -> Start CMD_CLOSECHAT
+03/02/05 17:55:13 -> -- Command End --
+03/02/05 17:55:13 -> Chat Closed!
+03/02/05 18:43:10 -> Use WinSock2
+03/02/05 18:43:10 -> CreateEventWindow() Start
+03/02/05 18:43:10 -> CreateEventWindow() End
+03/02/05 18:43:10 -> SvcAddr:218.237.53.142, SvcPort:443
+03/02/05 18:43:10 -> SvrAddr:192.168.45.119, SvrPort:9600
+03/02/05 18:43:10 -> ProxyAddr:, ProxyPort:0
+03/02/05 18:43:10 -> Config:
+03/02/05 18:43:10 -> Try Direct Connectting...
+03/02/05 18:43:10 -> Direct Connect to Addr:192.168.45.119, Port:9600
+03/02/05 18:43:13 -> Rsup Connect failed. Time out
+03/02/05 18:43:13 -> Try Demon Connectting...
+03/02/05 18:43:13 -> SockDemon->Read(szBuff, 8) OK
+03/02/05 18:43:13 -> SonicOK!
+03/02/05 18:43:13 -> Client Thread Create OK
+03/02/05 18:43:13 -> Start Client Thread...
+03/02/05 18:43:13 -> -- Start WM_SOCKEVENT_RSUP
+03/02/05 18:43:13 -> Init Service
+03/02/05 18:43:13 -> SetSystemHookEx
+03/02/05 18:43:13 -> Sended Message to RView Agent
+03/02/05 18:43:13 -> EventWindow - STATUS_CONNECT
+03/02/05 19:23:52 -> Socket.ReadExact() Error
+03/02/05 19:23:52 -> WSAGetLastError() = 183
+03/02/05 19:23:52 -> RemoteControl End!
+03/02/05 19:23:52 -> Thread window Closed
+03/03/05 09:10:25 -> Use WinSock2
+03/03/05 09:10:25 -> CreateEventWindow() Start
+03/03/05 09:10:25 -> CreateEventWindow() End
+03/03/05 09:10:25 -> SvcAddr:218.237.53.142, SvcPort:443
+03/03/05 09:10:25 -> SvrAddr:192.168.45.119, SvrPort:9600
+03/03/05 09:10:25 -> ProxyAddr:, ProxyPort:0
+03/03/05 09:10:25 -> Config:
+03/03/05 09:10:25 -> Try Direct Connectting...
+03/03/05 09:10:25 -> Direct Connect to Addr:192.168.45.119, Port:9600
+03/03/05 09:10:28 -> Rsup Connect failed. Time out
+03/03/05 09:10:28 -> Try Demon Connectting...
+03/03/05 09:10:28 -> SockDemon->Read(szBuff, 8) OK
+03/03/05 09:10:28 -> SonicOK!
+03/03/05 09:10:28 -> Client Thread Create OK
+03/03/05 09:10:28 -> Start Client Thread...
+03/03/05 09:10:28 -> -- Start WM_SOCKEVENT_RSUP
+03/03/05 09:10:28 -> Init Service
+03/03/05 09:10:28 -> SetSystemHookEx
+03/03/05 09:10:28 -> Sended Message to RView Agent
+03/03/05 09:10:28 -> EventWindow - STATUS_CONNECT
+03/03/05 13:36:34 -> Socket.ReadExact() Error
+03/03/05 13:36:34 -> WSAGetLastError() = 183
+03/03/05 13:36:34 -> RemoteControl End!
+03/03/05 13:36:34 -> Thread window Closed
+03/03/05 17:53:35 -> Use WinSock2
+03/03/05 17:53:35 -> CreateEventWindow() Start
+03/03/05 17:53:35 -> CreateEventWindow() End
+03/03/05 17:53:35 -> SvcAddr:218.237.53.142, SvcPort:443
+03/03/05 17:53:35 -> SvrAddr:192.168.45.119, SvrPort:9600
+03/03/05 17:53:35 -> ProxyAddr:, ProxyPort:0
+03/03/05 17:53:35 -> Config:
+03/03/05 17:53:35 -> Try Direct Connectting...
+03/03/05 17:53:35 -> Direct Connect to Addr:192.168.45.119, Port:9600
+03/03/05 17:53:38 -> Rsup Connect failed. Time out
+03/03/05 17:53:38 -> Try Demon Connectting...
+03/03/05 17:53:39 -> SockDemon->Read(szBuff, 8) OK
+03/03/05 17:53:39 -> SonicOK!
+03/03/05 17:53:39 -> Client Thread Create OK
+03/03/05 17:53:39 -> Start Client Thread...
+03/03/05 17:53:39 -> -- Start WM_SOCKEVENT_RSUP
+03/03/05 17:53:39 -> Init Service
+03/03/05 17:53:39 -> SetSystemHookEx
+03/03/05 17:53:39 -> Sended Message to RView Agent
+03/03/05 17:53:39 -> EventWindow - STATUS_CONNECT
+03/03/05 18:30:49 -> Socket.ReadExact() Error
+03/03/05 18:30:49 -> WSAGetLastError() = 183
+03/03/05 18:30:49 -> RemoteControl End!
+03/03/05 18:30:49 -> Thread window Closed
+03/03/05 20:11:17 -> Use WinSock2
+03/03/05 20:11:17 -> CreateEventWindow() Start
+03/03/05 20:11:17 -> CreateEventWindow() End
+03/03/05 20:11:17 -> SvcAddr:218.237.53.142, SvcPort:443
+03/03/05 20:11:17 -> SvrAddr:10.141.14.215, SvrPort:9600
+03/03/05 20:11:17 -> ProxyAddr:, ProxyPort:0
+03/03/05 20:11:17 -> Config:
+03/03/05 20:11:17 -> Try Direct Connectting...
+03/03/05 20:11:17 -> Direct Connect to Addr:10.141.14.215, Port:9600
+03/03/05 20:11:20 -> Rsup Connect failed. Time out
+03/03/05 20:11:20 -> Try Demon Connectting...
+03/03/05 20:11:20 -> SockDemon->Read(szBuff, 8) OK
+03/03/05 20:11:20 -> SonicOK!
+03/03/05 20:11:20 -> Client Thread Create OK
+03/03/05 20:11:20 -> Start Client Thread...
+03/03/05 20:11:20 -> -- Start WM_SOCKEVENT_RSUP
+03/03/05 20:11:20 -> Init Service
+03/03/05 20:11:20 -> SetSystemHookEx
+03/03/05 20:11:20 -> Sended Message to RView Agent
+03/03/05 20:11:20 -> EventWindow - STATUS_CONNECT
+03/03/05 21:52:29 -> Socket.ReadExact() Error
+03/03/05 21:52:29 -> WSAGetLastError() = 183
+03/03/05 21:52:29 -> RemoteControl End!
+03/03/05 21:52:29 -> Thread window Closed
+03/04/05 13:22:11 -> Use WinSock2
+03/04/05 13:22:11 -> CreateEventWindow() Start
+03/04/05 13:22:11 -> CreateEventWindow() End
+03/04/05 13:22:11 -> SvcAddr:218.237.53.142, SvcPort:443
+03/04/05 13:22:11 -> SvrAddr:10.141.14.215, SvrPort:9600
+03/04/05 13:22:11 -> ProxyAddr:, ProxyPort:0
+03/04/05 13:22:11 -> Config:
+03/04/05 13:22:11 -> Try Direct Connectting...
+03/04/05 13:22:11 -> Direct Connect to Addr:10.141.14.215, Port:9600
+03/04/05 13:22:14 -> Rsup Connect failed. Time out
+03/04/05 13:22:14 -> Try Demon Connectting...
+03/04/05 13:22:14 -> SockDemon->Read(szBuff, 8) OK
+03/04/05 13:22:14 -> SonicOK!
+03/04/05 13:22:14 -> Client Thread Create OK
+03/04/05 13:22:14 -> -- Start WM_SOCKEVENT_RSUP
+03/04/05 13:22:14 -> Start Client Thread...
+03/04/05 13:22:14 -> Init Service
+03/04/05 13:22:14 -> SetSystemHookEx
+03/04/05 13:22:14 -> Sended Message to RView Agent
+03/04/05 13:22:14 -> EventWindow - STATUS_CONNECT
+03/04/05 13:23:10 -> Socket.ReadExact() Error
+03/04/05 13:23:10 -> WSAGetLastError() = 183
+03/04/05 13:23:10 -> RemoteControl End!
+03/04/05 13:23:10 -> Thread window Closed
+03/04/05 13:53:34 -> Use WinSock2
+03/04/05 13:53:34 -> CreateEventWindow() Start
+03/04/05 13:53:34 -> CreateEventWindow() End
+03/04/05 13:53:34 -> SvcAddr:218.237.53.142, SvcPort:443
+03/04/05 13:53:34 -> SvrAddr:10.141.14.215, SvrPort:9600
+03/04/05 13:53:34 -> ProxyAddr:, ProxyPort:0
+03/04/05 13:53:34 -> Config:
+03/04/05 13:53:34 -> Try Direct Connectting...
+03/04/05 13:53:34 -> Direct Connect to Addr:10.141.14.215, Port:9600
+03/04/05 13:53:37 -> Rsup Connect failed. Time out
+03/04/05 13:53:37 -> Try Demon Connectting...
+03/04/05 13:53:37 -> SockDemon->Read(szBuff, 8) OK
+03/04/05 13:53:37 -> SonicOK!
+03/04/05 13:53:37 -> Client Thread Create OK
+03/04/05 13:53:37 -> Start Client Thread...
+03/04/05 13:53:37 -> -- Start WM_SOCKEVENT_RSUP
+03/04/05 13:53:37 -> Init Service
+03/04/05 13:53:37 -> SetSystemHookEx
+03/04/05 13:53:37 -> Sended Message to RView Agent
+03/04/05 13:53:37 -> EventWindow - STATUS_CONNECT
+03/04/05 14:20:27 -> Socket.ReadExact() Error
+03/04/05 14:20:27 -> WSAGetLastError() = 183
+03/04/05 14:20:27 -> RemoteControl End!
+03/04/05 14:20:27 -> Thread window Closed
+03/14/05 15:23:06 -> Use WinSock2
+03/14/05 15:23:06 -> CreateEventWindow() Start
+03/14/05 15:23:06 -> CreateEventWindow() End
+03/14/05 15:23:06 -> SvcAddr:218.237.53.142, SvcPort:443
+03/14/05 15:23:06 -> SvrAddr:10.141.14.215, SvrPort:9600
+03/14/05 15:23:06 -> ProxyAddr:, ProxyPort:0
+03/14/05 15:23:06 -> Config:
+03/14/05 15:23:06 -> Try Direct Connectting...
+03/14/05 15:23:06 -> Direct Connect to Addr:10.141.14.215, Port:9600
+03/14/05 15:23:09 -> Rsup Connect failed. Time out
+03/14/05 15:23:09 -> Try Demon Connectting...
+03/14/05 15:23:09 -> SockDemon->Read(szBuff, 8) OK
+03/14/05 15:23:09 -> SonicOK!
+03/14/05 15:23:09 -> Client Thread Create OK
+03/14/05 15:23:09 -> -- Start WM_SOCKEVENT_RSUP
+03/14/05 15:23:09 -> Start Client Thread...
+03/14/05 15:23:09 -> Init Service
+03/14/05 15:23:09 -> SetSystemHookEx
+03/14/05 15:23:09 -> Sended Message to RView Agent
+03/14/05 15:23:09 -> EventWindow - STATUS_CONNECT
+03/14/05 15:23:20 -> LogOff ~~~
+03/14/05 15:23:20 -> Init Service
+03/14/05 15:23:20 -> SetSystemHookEx
+03/14/05 19:18:25 -> Socket.ReadExact() Error
+03/14/05 19:18:25 -> WSAGetLastError() = 183
+03/14/05 19:18:25 -> RemoteControl End!
+03/14/05 19:18:25 -> Thread window Closed
+03/14/05 19:20:48 -> Use WinSock2
+03/14/05 19:20:48 -> CreateEventWindow() Start
+03/14/05 19:20:48 -> CreateEventWindow() End
+03/14/05 19:20:48 -> SvcAddr:218.237.53.142, SvcPort:443
+03/14/05 19:20:48 -> SvrAddr:10.141.14.215, SvrPort:9600
+03/14/05 19:20:48 -> ProxyAddr:, ProxyPort:0
+03/14/05 19:20:48 -> Config:
+03/14/05 19:20:48 -> Try Direct Connectting...
+03/14/05 19:20:48 -> Direct Connect to Addr:10.141.14.215, Port:9600
+03/14/05 19:20:51 -> Rsup Connect failed. Time out
+03/14/05 19:20:51 -> Try Demon Connectting...
+03/14/05 19:20:51 -> SockDemon->Read(szBuff, 8) OK
+03/14/05 19:20:51 -> SonicOK!
+03/14/05 19:20:51 -> Client Thread Create OK
+03/14/05 19:20:51 -> Start Client Thread...
+03/14/05 19:20:51 -> -- Start WM_SOCKEVENT_RSUP
+03/14/05 19:20:51 -> Init Service
+03/14/05 19:20:51 -> SetSystemHookEx
+03/14/05 19:20:51 -> Sended Message to RView Agent
+03/14/05 19:20:51 -> EventWindow - STATUS_CONNECT
+03/14/05 19:21:51 -> Socket.ReadExact() Error
+03/14/05 19:21:51 -> WSAGetLastError() = 183
+03/14/05 19:21:51 -> RemoteControl End!
+03/14/05 19:21:51 -> Thread window Closed
+03/15/05 10:01:10 -> Use WinSock2
+03/15/05 10:01:10 -> CreateEventWindow() Start
+03/15/05 10:01:10 -> CreateEventWindow() End
+03/15/05 10:01:10 -> SvcAddr:218.237.53.142, SvcPort:443
+03/15/05 10:01:10 -> SvrAddr:10.141.14.215, SvrPort:9600
+03/15/05 10:01:10 -> ProxyAddr:, ProxyPort:0
+03/15/05 10:01:10 -> Config:
+03/15/05 10:01:10 -> Try Direct Connectting...
+03/15/05 10:01:10 -> Direct Connect to Addr:10.141.14.215, Port:9600
+03/15/05 10:01:13 -> Rsup Connect failed. Time out
+03/15/05 10:01:13 -> Try Demon Connectting...
+03/15/05 10:01:13 -> SockDemon->Read(szBuff, 8) OK
+03/15/05 10:01:13 -> SonicOK!
+03/15/05 10:01:13 -> Client Thread Create OK
+03/15/05 10:01:13 -> Start Client Thread...
+03/15/05 10:01:13 -> -- Start WM_SOCKEVENT_RSUP
+03/15/05 10:01:13 -> Init Service
+03/15/05 10:01:13 -> SetSystemHookEx
+03/15/05 10:01:13 -> Sended Message to RView Agent
+03/15/05 10:01:13 -> EventWindow - STATUS_CONNECT
+03/15/05 10:37:43 -> Socket.ReadExact() Error
+03/15/05 10:37:43 -> WSAGetLastError() = 183
+03/15/05 10:37:43 -> RemoteControl End!
+03/15/05 10:37:43 -> Thread window Closed
+03/15/05 10:38:10 -> Use WinSock2
+03/15/05 10:38:10 -> CreateEventWindow() Start
+03/15/05 10:38:10 -> CreateEventWindow() End
+03/15/05 10:38:10 -> SvcAddr:218.237.53.142, SvcPort:443
+03/15/05 10:38:10 -> SvrAddr:10.141.14.215, SvrPort:9600
+03/15/05 10:38:10 -> ProxyAddr:, ProxyPort:0
+03/15/05 10:38:10 -> Config:
+03/15/05 10:38:10 -> Try Direct Connectting...
+03/15/05 10:38:10 -> Direct Connect to Addr:10.141.14.215, Port:9600
+03/15/05 10:38:13 -> Rsup Connect failed. Time out
+03/15/05 10:38:13 -> Try Demon Connectting...
+03/15/05 10:38:13 -> SockDemon->Read(szBuff, 8) OK
+03/15/05 10:38:13 -> SonicOK!
+03/15/05 10:38:13 -> Client Thread Create OK
+03/15/05 10:38:13 -> Start Client Thread...
+03/15/05 10:38:13 -> -- Start WM_SOCKEVENT_RSUP
+03/15/05 10:38:13 -> Init Service
+03/15/05 10:38:13 -> SetSystemHookEx
+03/15/05 10:38:13 -> Sended Message to RView Agent
+03/15/05 10:38:13 -> EventWindow - STATUS_CONNECT
+03/15/05 11:30:05 -> LogOff ~~~
+03/15/05 11:30:05 -> Init Service
+03/15/05 11:30:05 -> SetSystemHookEx
+03/15/05 11:30:14 -> Socket.ReadExact() Error
+03/15/05 11:30:14 -> WSAGetLastError() = 183
+03/15/05 11:30:14 -> RemoteControl End!
+03/15/05 11:30:14 -> Thread window Closed
+03/16/05 14:06:54 -> Use WinSock2
+03/16/05 14:06:54 -> CreateEventWindow() Start
+03/16/05 14:06:54 -> CreateEventWindow() End
+03/16/05 14:06:54 -> SvcAddr:218.237.53.142, SvcPort:443
+03/16/05 14:06:54 -> SvrAddr:10.141.14.215, SvrPort:9600
+03/16/05 14:06:54 -> ProxyAddr:, ProxyPort:0
+03/16/05 14:06:54 -> Config:
+03/16/05 14:06:54 -> Try Direct Connectting...
+03/16/05 14:06:54 -> Direct Connect to Addr:10.141.14.215, Port:9600
+03/16/05 14:06:57 -> Rsup Connect failed. Time out
+03/16/05 14:06:57 -> Try Demon Connectting...
+03/16/05 14:06:57 -> SockDemon->Read(szBuff, 8) OK
+03/16/05 14:06:57 -> SonicOK!
+03/16/05 14:06:57 -> Client Thread Create OK
+03/16/05 14:06:57 -> Start Client Thread...
+03/16/05 14:06:57 -> -- Start WM_SOCKEVENT_RSUP
+03/16/05 14:06:57 -> Init Service
+03/16/05 14:06:57 -> SetSystemHookEx
+03/16/05 14:06:57 -> Sended Message to RView Agent
+03/16/05 14:06:57 -> EventWindow - STATUS_CONNECT
+03/16/05 14:48:17 -> Socket.ReadExact() Error
+03/16/05 14:48:17 -> WSAGetLastError() = 183
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=778330975
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1902456420
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=992571749
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=572661823
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=-1071632593
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=151614574
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=151608667
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1601138289
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1601138289
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1601138289
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1601138289
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=151587165
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1869504372
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1566271604
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=539572264
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1633641590
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=151587081
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1633643885
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1024002313
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=543649385
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1601463159
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1601463666
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1701601651
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1601463666
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1953704051
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=2018800244
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1953704051
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1601203567
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1867254025
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1851748709
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1919248231
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1903386489
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1601793650
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1919248231
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1903386478
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1601070963
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1919248231
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1903386489
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1601793650
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1919248231
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1903386478
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1601070963
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1919248231
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1953654115
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=151587387
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1851748461
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1701275503
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1986228831
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1601466228
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1701275503
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=723671919
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1701275503
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1836016479
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1734894431
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> Socket.ReadExact() Error
+03/16/05 14:48:17 -> WSAGetLastError() = 183
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=738789641
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1747069044
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1747069044
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1953391455
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1601203567
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1953696009
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1767599982
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1852928863
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1364418393
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1852928863
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1364418382
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1852928863
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1364418393
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1852928863
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1364418382
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1567185773
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> Socket.ReadExact() Error
+03/16/05 14:48:17 -> WSAGetLastError() = 183
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1731093869
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1598234668
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:17 -> -- Command Start --
+03/16/05 14:48:17 -> cmd.datasize=1314149456
+03/16/05 14:48:17 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=151610441
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=157567347
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1415536451
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1701994347
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1668767595
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1634951019
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1701994347
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1852795251
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=151613262
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1731093869
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1731093869
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1598234668
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1314149456
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=151610441
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=157567347
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1415536451
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1701994347
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1668767595
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1634951019
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1701994347
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1953704051
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=543519596
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=543519596
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=543519596
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=538976288
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=992551517
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1950900078
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=168442665
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1635017028
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=572596513
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1850028080
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=548057338
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1735289202
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=538976356
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1836217460
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1953780583
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=543441766
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=538976356
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=543441764
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=538993731
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=538993731
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=538976356
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=543441780
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1226849568
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1849914465
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1718960754
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=151587082
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1819047278
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=540876911
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=151665456
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1025533047
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=151614574
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=2001759841
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1852404340
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1852404340
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1920234338
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1008755831
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=151681801
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1852404340
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=829711455
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=151587082
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=689975328
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1685549151
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1851749477
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1953701931
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1685549151
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1851749477
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1953701931
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1025534068
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1416175656
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1852132452
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1851870548
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1699505271
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=151587081
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1008755831
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1767073908
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=151681801
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1851870548
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=2001759841
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=992569460
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=691019838
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1714254958
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1868767291
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1714254958
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1868767291
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1714254958
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1868767291
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=538976288
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1714254958
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1868767291
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1714254958
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1868767291
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=538976288
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1714254958
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1868767291
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=538976288
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1714254958
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1868767291
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1714254958
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1868767291
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=538976288
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1714254958
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1868767291
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=538976288
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1714254958
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1868767291
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=538976288
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1714254958
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1868767291
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=538976288
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1714254958
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1868767291
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=538976288
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1714254958
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1868767291
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1747805550
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1714254958
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1868767291
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=538976288
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1970564932
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=540748066
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1735280928
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1920234249
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1667330163
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1751607653
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1212367181
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1667330163
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1684300144
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=538984036
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=544104816
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1920216625
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=151587081
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1920216625
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1886596924
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1920216625
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1851879539
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1634759484
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1851745379
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1851747951
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=538984036
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=538976288
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1667330163
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1684300144
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=538984036
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1852270956
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1601074291
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1852137774
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=778330975
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1663069793
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1852270956
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1601074291
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1663069793
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1886600254
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1601074291
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1663069793
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1852270956
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1601074291
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1663069793
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1886600254
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1601074291
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1852137774
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=778330975
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1601074291
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1601074291
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1601074291
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1852404340
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1700867694
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1836343156
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1047421296
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1852137774
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=778330975
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1852404340
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1700867694
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1836343158
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1047421296
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1852404340
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1700867694
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1836343156
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1047421296
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1852404340
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1700867694
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1836343158
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1047421296
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1852404340
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1700867694
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1836343158
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1047421296
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1667330163
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:18 -> -- Command Start --
+03/16/05 14:48:18 -> cmd.datasize=1684300144
+03/16/05 14:48:18 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1030645609
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1852137774
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=778330975
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1852270956
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1684234086
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1852270956
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1684234086
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1852270956
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1634759484
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1030645609
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1868703549
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1769108526
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1852270956
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1600414559
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=678653025
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=555755825
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1932030828
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1768710432
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1010709298
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1949184367
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1768710432
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1010709298
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1949184367
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1768710432
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1010709298
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=678653025
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=2066295089
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1634759484
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=539568433
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1851879539
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1932030828
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1869504372
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1631810149
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=151587082
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1869504372
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1631810149
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=2097744137
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=774449457
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=175966473
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1634759484
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1953704051
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1046770735
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1851879539
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1768710518
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1768710518
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1851879539
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=678653025
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=555755825
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1932030828
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1768710518
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1949184367
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1768710518
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1949184367
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1768710518
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=678653025
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=2066295089
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1851879539
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=539568433
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1851879539
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1932030828
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1601462629
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1631810149
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=151587082
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1601462629
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1631810149
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=151587081
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=774449457
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=2097744137
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1022870179
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=778330975
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1046770735
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1851879539
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1684234086
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1768710518
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1768710518
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1769108526
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1851879539
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1600414559
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=678653025
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=555755826
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1932030828
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1768710518
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1949184623
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1768710518
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1949184623
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1768710518
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=678653025
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=2066295090
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1851879539
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=539568434
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1851879539
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1932030828
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1869504372
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1631810149
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=151587082
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1869504372
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1631810149
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=151587081
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=774449458
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=2097744137
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1851879539
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=538976288
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1684300144
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1031039079
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=544104816
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=539697193
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=544104816
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=723527977
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1835097956
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1667330163
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1684300144
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=538984036
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=544104816
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1851745379
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1734304882
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1684234084
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1952983083
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1768185701
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1667330163
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1684300144
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=538984036
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1852270956
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=573269357
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1886600254
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1952981035
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1886596924
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1684300144
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=538984036
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=577004591
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=677867113
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=661940327
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1932423022
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=151587362
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1932423022
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=829712427
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1932423022
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=151587362
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1932423022
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1932475426
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=538976288
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1030645609
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=538976288
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1667330163
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1634759484
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1634759484
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=1735280928
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:19 -> -- Command Start --
+03/16/05 14:48:19 -> cmd.datasize=538976288
+03/16/05 14:48:19 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1533375609
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=778979698
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1920090469
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1767073132
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=171665524
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=540876912
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=690106670
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1025537138
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1215459186
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=795174753
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1177513069
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1701999731
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=778920293
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=151587081
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1382380665
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1762199817
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1929971977
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=789121289
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1701981806
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1646274865
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1634038316
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1210855468
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=791611657
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=-1413892424
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=151587081
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=538976288
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=539783525
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=168459529
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=539783525
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=171649314
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=538976288
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=539783525
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1852795252
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1918986307
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1025533284
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=538976266
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=538976288
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=539783525
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=170485024
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=538976288
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=539783525
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=538976288
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=539783525
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=538976288
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=539783525
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1835102817
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=706748448
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1902473760
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1394617456
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=744844641
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=695034226
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1852795252
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=2017796140
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=538976288
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=538976288
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=538970683
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1931485216
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=544039282
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1131701607
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1852795252
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=539583776
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=2065702944
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=538970683
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=551727392
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=2019650900
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=808464689
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1936203877
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1951606816
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=544761188
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1952802606
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=540876904
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=790641456
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=790641456
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1953383284
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1953383284
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1025537134
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1818195054
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=-1057308640
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=2065710368
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=540876849
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=540876850
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=538995809
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1952935525
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=540109921
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1735288172
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=540175457
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1735288172
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=-775428672
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1701539668
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=538976288
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=538976288
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1767599717
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1866691169
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=690580591
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1701539668
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=829712393
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=539963168
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=539963168
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=539963168
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=539963168
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1181906035
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=539963168
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=539963168
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=539963168
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1766224500
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=539963168
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=539963168
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=539963168
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=539963168
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=539963168
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=539963168
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=539963168
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=539963168
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=540876832
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=539963168
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1024008224
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=539963168
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=539963168
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=539963168
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=539963168
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=539963168
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=539963168
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=539963168
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=539963168
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=539122464
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=576528928
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=723526235
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=690117922
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=540680224
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=539697184
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=975183904
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=723525664
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=829712424
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=829712424
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:20 -> -- Command Start --
+03/16/05 14:48:20 -> cmd.datasize=1953383284
+03/16/05 14:48:20 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=1701539668
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=538976288
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=1529966181
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=1131569512
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=690580591
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=1701539668
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=858267695
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=942153775
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=891822127
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=841490479
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=824713263
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=824713263
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=824713263
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=538976365
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=824713263
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=544042591
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=824713263
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=538976288
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=824713263
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=673197871
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=942153775
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=942153775
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=942153775
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=1953701949
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=942153775
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=942153775
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=824713263
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=824713263
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=858267695
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=824713263
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=841490479
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=824713263
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=824713263
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=942153775
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=824713263
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=841490479
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=908599343
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=942153775
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=824713263
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=841490479
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=908599343
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=824713263
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=891822127
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=824713263
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=841490479
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=858267695
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=942153775
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=824713263
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=841490479
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=908599343
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=942153775
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=824713263
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=841490479
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=908599343
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=824713263
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=891822127
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=824713263
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=841490479
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=858267695
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=538976365
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=538976365
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=544042591
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=544042591
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=538976288
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=538976288
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=1747657307
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:21 -> -- Command Start --
+03/16/05 14:48:21 -> cmd.datasize=171649314
+03/16/05 14:48:21 -> -- Command End --
+03/16/05 14:48:22 -> -- Command Start --
+03/16/05 14:48:22 -> cmd.datasize=1701607521
+03/16/05 14:48:22 -> -- Command End --
+03/16/05 14:48:22 -> -- Command Start --
+03/16/05 14:48:22 -> cmd.datasize=1953383284
+03/16/05 14:48:22 -> -- Command End --
+03/16/05 14:48:22 -> -- Command Start --
+03/16/05 14:48:22 -> cmd.datasize=1818195054
+03/16/05 14:48:22 -> -- Command End --
+03/16/05 14:48:22 -> -- Command Start --
+03/16/05 14:48:22 -> cmd.datasize=1701539668
+03/16/05 14:48:22 -> -- Command End --
+03/16/05 14:48:22 -> -- Command Start --
+03/16/05 14:48:22 -> cmd.datasize=543977283
+03/16/05 14:48:22 -> -- Command End --
+03/16/05 14:48:22 -> -- Command Start --
+03/16/05 14:48:22 -> cmd.datasize=151587082
+03/16/05 14:48:22 -> -- Command End --
+03/16/05 14:48:22 -> -- Command Start --
+03/16/05 14:48:22 -> cmd.datasize=996961397
+03/16/05 14:48:22 -> -- Command End --
+03/16/05 14:48:22 -> -- Command Start --
+03/16/05 14:48:22 -> cmd.datasize=1131569512
+03/16/05 14:48:22 -> -- Command End --
+03/16/05 14:48:22 -> -- Command Start --
+03/16/05 14:48:22 -> cmd.datasize=690580591
+03/16/05 14:48:22 -> -- Command End --
+03/16/05 14:48:22 -> -- Command Start --
+03/16/05 14:48:22 -> cmd.datasize=1701539668
+03/16/05 14:48:22 -> -- Command End --
+03/16/05 14:48:22 -> -- Command Start --
+03/16/05 14:48:22 -> cmd.datasize=1745422601
+03/16/05 14:48:22 -> -- Command End --
+03/16/05 14:48:22 -> -- Command Start --
+03/16/05 14:48:22 -> cmd.datasize=1745422601
+03/16/05 14:48:22 -> -- Command End --
+03/16/05 14:48:22 -> -- Command Start --
+03/16/05 14:48:22 -> cmd.datasize=1745422601
+03/16/05 14:48:22 -> -- Command End --
+03/16/05 14:48:22 -> -- Command Start --
+03/16/05 14:48:22 -> cmd.datasize=1745422601
+03/16/05 14:48:22 -> -- Command End --
+03/16/05 14:48:22 -> -- Command Start --
+03/16/05 14:48:22 -> cmd.datasize=1745422601
+03/16/05 14:48:22 -> -- Command End --
+03/16/05 14:48:22 -> -- Command Start --
+03/16/05 14:48:22 -> cmd.datasize=1745422601
+03/16/05 14:48:22 -> -- Command End --
+03/16/05 14:48:22 -> -- Command Start --
+03/16/05 14:48:22 -> cmd.datasize=1745422601
+03/16/05 14:48:22 -> -- Command End --
+03/16/05 14:48:22 -> -- Command Start --
+03/16/05 14:48:22 -> cmd.datasize=1745422601
+03/16/05 14:48:22 -> -- Command End --
+03/16/05 14:48:22 -> -- Command Start --
+03/16/05 14:48:22 -> cmd.datasize=1745422601
+03/16/05 14:48:22 -> -- Command End --
+03/16/05 14:48:22 -> -- Command Start --
+03/16/05 14:48:22 -> cmd.datasize=151587081
+03/16/05 14:48:22 -> -- Command End --
+03/16/05 14:48:22 -> -- Command Start --
+03/16/05 14:48:22 -> cmd.datasize=573271151
+03/16/05 14:48:22 -> -- Command End --
+03/16/05 14:48:22 -> -- Command Start --
+03/16/05 14:48:22 -> cmd.datasize=1701607521
+03/16/05 14:48:22 -> -- Command End --
+03/16/05 14:48:22 -> -- Command Start --
+03/16/05 14:48:22 -> cmd.datasize=1818195054
+03/16/05 14:48:22 -> -- Command End --
+03/16/05 16:15:50 -> Socket.ReadExact() Error
+03/16/05 16:15:50 -> WSAGetLastError() = 183
+03/16/05 16:15:50 -> -- Command Start --
+03/16/05 16:15:50 -> cmd.datasize=-1413157953
+03/16/05 16:15:50 -> -- Command End --
+03/16/05 16:15:50 -> -- Command Start --
+03/16/05 16:15:50 -> cmd.datasize=538976288
+03/16/05 16:15:50 -> -- Command End --
+03/16/05 16:15:50 -> -- Command Start --
+03/16/05 16:15:50 -> cmd.datasize=1919251566
+03/16/05 16:15:50 -> -- Command End --
+03/16/05 16:15:50 -> -- Command Start --
+03/16/05 16:15:50 -> cmd.datasize=550352928
+03/16/05 16:15:50 -> -- Command End --
+03/16/05 16:15:50 -> -- Command Start --
+03/16/05 16:15:50 -> cmd.datasize=538976288
+03/16/05 16:15:50 -> -- Command End --
+03/16/05 16:15:50 -> -- Command Start --
+03/16/05 16:15:50 -> cmd.datasize=1919251566
+03/16/05 16:15:50 -> -- Command End --
+03/16/05 16:15:50 -> -- Command Start --
+03/16/05 16:15:50 -> cmd.datasize=-575549760
+03/16/05 16:15:50 -> -- Command End --
+03/16/05 16:15:50 -> -- Command Start --
+03/16/05 16:15:50 -> cmd.datasize=538976288
+03/16/05 16:15:50 -> -- Command End --
+03/16/05 16:15:50 -> -- Command Start --
+03/16/05 16:15:50 -> cmd.datasize=1919251566
+03/16/05 16:15:50 -> -- Command End --
+03/16/05 16:15:50 -> -- Command Start --
+03/16/05 16:15:50 -> cmd.datasize=1935830566
+03/16/05 16:15:50 -> -- Command End --
+03/16/05 16:15:50 -> -- Command Start --
+03/16/05 16:15:50 -> cmd.datasize=538976288
+03/16/05 16:15:50 -> -- Command End --
+03/16/05 16:15:50 -> -- Command Start --
+03/16/05 16:15:50 -> cmd.datasize=1667330163
+03/16/05 16:15:50 -> -- Command End --
+03/16/05 16:15:50 -> -- Command Start --
+03/16/05 16:15:50 -> cmd.datasize=1667330163
+03/16/05 16:15:50 -> -- Command End --
+03/16/05 16:15:50 -> -- Command Start --
+03/16/05 16:15:50 -> cmd.datasize=1746952508
+03/16/05 16:15:50 -> -- Command End --
+03/16/05 16:15:50 -> -- Command Start --
+03/16/05 16:15:50 -> cmd.datasize=1702063980
+03/16/05 16:15:50 -> -- Command End --
+03/16/05 16:15:50 -> -- Command Start --
+03/16/05 16:15:50 -> cmd.datasize=1919954791
+03/16/05 16:15:50 -> -- Command End --
+03/16/05 16:15:50 -> -- Command Start --
+03/16/05 16:15:50 -> cmd.datasize=1042441580
+03/16/05 16:15:50 -> -- Command End --
+03/16/05 16:15:50 -> -- Command Start --
+03/16/05 16:15:50 -> cmd.datasize=171861108
+03/16/05 16:15:50 -> -- Command End --
+03/16/05 18:32:19 -> LogOff ~~~
+03/16/05 18:32:19 -> Init Service
+03/16/05 18:32:19 -> SetSystemHookEx
+03/16/05 18:32:27 -> Socket.ReadExact() Error
+03/16/05 18:32:27 -> WSAGetLastError() = 183
+03/16/05 18:32:27 -> RemoteControl End!
+03/16/05 18:32:27 -> Thread window Closed
+03/17/05 10:52:40 -> Use WinSock2
+03/17/05 10:52:40 -> CreateEventWindow() Start
+03/17/05 10:52:40 -> CreateEventWindow() End
+03/17/05 10:52:40 -> SvcAddr:218.237.53.142, SvcPort:443
+03/17/05 10:52:40 -> SvrAddr:10.141.14.215, SvrPort:9600
+03/17/05 10:52:40 -> ProxyAddr:, ProxyPort:0
+03/17/05 10:52:40 -> Config:
+03/17/05 10:52:40 -> Try Direct Connectting...
+03/17/05 10:52:40 -> Direct Connect to Addr:10.141.14.215, Port:9600
+03/17/05 10:52:43 -> Rsup Connect failed. Time out
+03/17/05 10:52:43 -> Try Demon Connectting...
+03/17/05 10:52:43 -> SockDemon->Read(szBuff, 8) OK
+03/17/05 10:52:43 -> SonicOK!
+03/17/05 10:52:44 -> Client Thread Create OK
+03/17/05 10:52:44 -> -- Start WM_SOCKEVENT_RSUP
+03/17/05 10:52:44 -> Start Client Thread...
+03/17/05 10:52:44 -> Init Service
+03/17/05 10:52:44 -> SetSystemHookEx
+03/17/05 10:52:44 -> Sended Message to RView Agent
+03/17/05 10:52:44 -> EventWindow - STATUS_CONNECT
+03/17/05 10:52:52 -> LogOff ~~~
+03/17/05 10:52:52 -> Init Service
+03/17/05 10:52:52 -> SetSystemHookEx
+03/17/05 13:59:54 -> Socket.ReadExact() Error
+03/17/05 13:59:54 -> WSAGetLastError() = 183
+03/17/05 13:59:54 -> RemoteControl End!
+03/17/05 13:59:54 -> Thread window Closed
+03/17/05 14:07:09 -> Use WinSock2
+03/17/05 14:07:09 -> CreateEventWindow() Start
+03/17/05 14:07:09 -> CreateEventWindow() End
+03/17/05 14:07:09 -> SvcAddr:218.237.53.142, SvcPort:443
+03/17/05 14:07:09 -> SvrAddr:10.141.14.215, SvrPort:9600
+03/17/05 14:07:09 -> ProxyAddr:, ProxyPort:0
+03/17/05 14:07:09 -> Config:
+03/17/05 14:07:09 -> Try Direct Connectting...
+03/17/05 14:07:09 -> Direct Connect to Addr:10.141.14.215, Port:9600
+03/17/05 14:07:12 -> Rsup Connect failed. Time out
+03/17/05 14:07:12 -> Try Demon Connectting...
+03/17/05 14:07:12 -> SockDemon->Read(szBuff, 8) OK
+03/17/05 14:07:12 -> SonicOK!
+03/17/05 14:07:12 -> Client Thread Create OK
+03/17/05 14:07:12 -> Start Client Thread...
+03/17/05 14:07:12 -> -- Start WM_SOCKEVENT_RSUP
+03/17/05 14:07:12 -> Init Service
+03/17/05 14:07:12 -> SetSystemHookEx
+03/17/05 14:07:12 -> Sended Message to RView Agent
+03/17/05 14:07:12 -> EventWindow - STATUS_CONNECT
+03/17/05 14:25:52 -> Socket.ReadExact() Error
+03/17/05 14:25:52 -> WSAGetLastError() = 183
+03/17/05 14:25:52 -> RemoteControl End!
+03/17/05 14:25:52 -> Thread window Closed
+04/01/05 13:48:57 -> Use WinSock2
+04/01/05 13:48:58 -> CreateEventWindow() Start
+04/01/05 13:48:58 -> CreateEventWindow() End
+04/01/05 13:48:58 -> SvcAddr:218.237.53.142, SvcPort:443
+04/01/05 13:48:58 -> SvrAddr:10.141.14.215, SvrPort:9600
+04/01/05 13:48:58 -> ProxyAddr:, ProxyPort:0
+04/01/05 13:48:58 -> Config:
+04/01/05 13:48:58 -> Try Direct Connectting...
+04/01/05 13:48:58 -> Direct Connect to Addr:10.141.14.215, Port:9600
+04/01/05 13:49:01 -> Rsup Connect failed. Time out
+04/01/05 13:49:01 -> Try Demon Connectting...
+04/01/05 13:49:01 -> SockDemon->Read(szBuff, 8) OK
+04/01/05 13:49:01 -> SonicOK!
+04/01/05 13:49:01 -> Client Thread Create OK
+04/01/05 13:49:01 -> Start Client Thread...
+04/01/05 13:49:01 -> -- Start WM_SOCKEVENT_RSUP
+04/01/05 13:49:01 -> Init Service
+04/01/05 13:49:01 -> SetSystemHookEx
+04/01/05 13:49:01 -> Sended Message to RView Agent
+04/01/05 13:49:01 -> EventWindow - STATUS_CONNECT
+04/01/05 13:49:07 -> Socket.ReadExact() Error
+04/01/05 13:49:07 -> WSAGetLastError() = 183
+04/01/05 13:49:07 -> RemoteControl End!
+04/01/05 13:49:07 -> Thread window Closed
+04/04/05 16:29:10 -> Use WinSock2
+04/04/05 16:29:10 -> CreateEventWindow() Start
+04/04/05 16:29:10 -> CreateEventWindow() End
+04/04/05 16:29:10 -> SvcAddr:218.237.53.142, SvcPort:443
+04/04/05 16:29:10 -> SvrAddr:10.141.14.215, SvrPort:9600
+04/04/05 16:29:10 -> ProxyAddr:, ProxyPort:0
+04/04/05 16:29:10 -> Config:
+04/04/05 16:29:10 -> Try Direct Connectting...
+04/04/05 16:29:10 -> Direct Connect to Addr:10.141.14.215, Port:9600
+04/04/05 16:29:13 -> Rsup Connect failed. Time out
+04/04/05 16:29:13 -> Try Demon Connectting...
+04/04/05 16:29:13 -> SockDemon->Read(szBuff, 8) OK
+04/04/05 16:29:13 -> SonicOK!
+04/04/05 16:29:13 -> Client Thread Create OK
+04/04/05 16:29:13 -> Start Client Thread...
+04/04/05 16:29:13 -> -- Start WM_SOCKEVENT_RSUP
+04/04/05 16:29:13 -> Init Service
+04/04/05 16:29:13 -> SetSystemHookEx
+04/04/05 16:29:13 -> Sended Message to RView Agent
+04/04/05 16:29:13 -> EventWindow - STATUS_CONNECT
+04/04/05 16:32:20 -> Socket.ReadExact() Error
+04/04/05 16:32:20 -> WSAGetLastError() = 183
+04/04/05 16:32:20 -> RemoteControl End!
+04/04/05 16:32:20 -> Thread window Closed
+04/04/05 18:19:05 -> Use WinSock2
+04/04/05 18:19:05 -> CreateEventWindow() Start
+04/04/05 18:19:05 -> CreateEventWindow() End
+04/04/05 18:19:05 -> SvcAddr:218.237.53.142, SvcPort:443
+04/04/05 18:19:05 -> SvrAddr:10.141.14.215, SvrPort:9600
+04/04/05 18:19:05 -> ProxyAddr:, ProxyPort:0
+04/04/05 18:19:05 -> Config:
+04/04/05 18:19:05 -> Try Direct Connectting...
+04/04/05 18:19:05 -> Direct Connect to Addr:10.141.14.215, Port:9600
+04/04/05 18:19:08 -> Rsup Connect failed. Time out
+04/04/05 18:19:08 -> Try Demon Connectting...
+04/04/05 18:19:08 -> SockDemon->Read(szBuff, 8) OK
+04/04/05 18:19:08 -> SonicOK!
+04/04/05 18:19:08 -> Client Thread Create OK
+04/04/05 18:19:08 -> Start Client Thread...
+04/04/05 18:19:08 -> -- Start WM_SOCKEVENT_RSUP
+04/04/05 18:19:09 -> Init Service
+04/04/05 18:19:09 -> SetSystemHookEx
+04/04/05 18:19:09 -> Sended Message to RView Agent
+04/04/05 18:19:09 -> EventWindow - STATUS_CONNECT
+04/04/05 19:20:52 -> Socket.ReadExact() Error
+04/04/05 19:20:52 -> WSAGetLastError() = 183
+04/04/05 19:20:52 -> RemoteControl End!
+04/04/05 19:20:52 -> Thread window Closed
+04/06/05 13:20:30 -> Use WinSock2
+04/06/05 13:20:30 -> CreateEventWindow() Start
+04/06/05 13:20:30 -> CreateEventWindow() End
+04/06/05 13:20:30 -> SvcAddr:218.237.53.142, SvcPort:443
+04/06/05 13:20:30 -> SvrAddr:10.141.14.215, SvrPort:9600
+04/06/05 13:20:30 -> ProxyAddr:, ProxyPort:0
+04/06/05 13:20:30 -> Config:
+04/06/05 13:20:30 -> Try Direct Connectting...
+04/06/05 13:20:30 -> Direct Connect to Addr:10.141.14.215, Port:9600
+04/06/05 13:20:33 -> Rsup Connect failed. Time out
+04/06/05 13:20:33 -> Try Demon Connectting...
+04/06/05 13:20:33 -> SockDemon->Read(szBuff, 8) OK
+04/06/05 13:20:33 -> SonicOK!
+04/06/05 13:20:33 -> Client Thread Create OK
+04/06/05 13:20:33 -> Start Client Thread...
+04/06/05 13:20:33 -> -- Start WM_SOCKEVENT_RSUP
+04/06/05 13:20:33 -> Init Service
+04/06/05 13:20:33 -> SetSystemHookEx
+04/06/05 13:20:33 -> Sended Message to RView Agent
+04/06/05 13:20:33 -> EventWindow - STATUS_CONNECT
+04/06/05 13:22:35 -> Socket.ReadExact() Error
+04/06/05 13:22:35 -> WSAGetLastError() = 183
+04/06/05 13:22:35 -> RemoteControl End!
+04/06/05 13:22:35 -> Thread window Closed
+04/06/05 13:39:57 -> Use WinSock2
+04/06/05 13:39:57 -> CreateEventWindow() Start
+04/06/05 13:39:57 -> CreateEventWindow() End
+04/06/05 13:39:57 -> SvcAddr:218.237.53.142, SvcPort:443
+04/06/05 13:39:57 -> SvrAddr:10.141.14.215, SvrPort:9600
+04/06/05 13:39:57 -> ProxyAddr:, ProxyPort:0
+04/06/05 13:39:57 -> Config:
+04/06/05 13:39:57 -> Try Direct Connectting...
+04/06/05 13:39:57 -> Direct Connect to Addr:10.141.14.215, Port:9600
+04/06/05 13:40:00 -> Rsup Connect failed. Time out
+04/06/05 13:40:00 -> Try Demon Connectting...
+04/06/05 13:40:00 -> SockDemon->Read(szBuff, 8) OK
+04/06/05 13:40:00 -> SonicOK!
+04/06/05 13:40:01 -> Client Thread Create OK
+04/06/05 13:40:01 -> Start Client Thread...
+04/06/05 13:40:01 -> -- Start WM_SOCKEVENT_RSUP
+04/06/05 13:40:01 -> Init Service
+04/06/05 13:40:01 -> SetSystemHookEx
+04/06/05 13:40:01 -> Sended Message to RView Agent
+04/06/05 13:40:01 -> EventWindow - STATUS_CONNECT
+04/06/05 13:42:16 -> Socket.ReadExact() Error
+04/06/05 13:42:16 -> WSAGetLastError() = 183
+04/06/05 13:42:16 -> RemoteControl End!
+04/06/05 13:42:16 -> Thread window Closed
+04/11/05 11:03:36 -> Use WinSock2
+04/11/05 11:03:36 -> CreateEventWindow() Start
+04/11/05 11:03:36 -> CreateEventWindow() End
+04/11/05 11:03:36 -> SvcAddr:218.237.53.142, SvcPort:443
+04/11/05 11:03:36 -> SvrAddr:10.141.14.215, SvrPort:9600
+04/11/05 11:03:36 -> ProxyAddr:, ProxyPort:0
+04/11/05 11:03:36 -> Config:
+04/11/05 11:03:36 -> Try Direct Connectting...
+04/11/05 11:03:36 -> Direct Connect to Addr:10.141.14.215, Port:9600
+04/11/05 11:03:39 -> Rsup Connect failed. Time out
+04/11/05 11:03:39 -> Try Demon Connectting...
+04/11/05 11:03:39 -> SockDemon->Read(szBuff, 8) OK
+04/11/05 11:03:39 -> SonicOK!
+04/11/05 11:03:39 -> Client Thread Create OK
+04/11/05 11:03:39 -> -- Start WM_SOCKEVENT_RSUP
+04/11/05 11:03:39 -> Start Client Thread...
+04/11/05 11:03:40 -> Init Service
+04/11/05 11:03:40 -> SetSystemHookEx
+04/11/05 11:03:40 -> Sended Message to RView Agent
+04/11/05 11:03:40 -> EventWindow - STATUS_CONNECT
+04/11/05 11:10:52 -> Socket.ReadExact() Error
+04/11/05 11:10:52 -> WSAGetLastError() = 183
+04/11/05 11:10:52 -> RemoteControl End!
+04/11/05 11:10:52 -> Thread window Closed
+04/13/05 10:26:51 -> Use WinSock2
+04/13/05 10:26:51 -> CreateEventWindow() Start
+04/13/05 10:26:51 -> CreateEventWindow() End
+04/13/05 10:26:51 -> SvcAddr:218.237.53.142, SvcPort:443
+04/13/05 10:26:51 -> SvrAddr:10.141.14.215, SvrPort:9600
+04/13/05 10:26:51 -> ProxyAddr:, ProxyPort:0
+04/13/05 10:26:51 -> Config:
+04/13/05 10:26:51 -> Try Direct Connectting...
+04/13/05 10:26:51 -> Direct Connect to Addr:10.141.14.215, Port:9600
+04/13/05 10:26:54 -> Rsup Connect failed. Time out
+04/13/05 10:26:54 -> Try Demon Connectting...
+04/13/05 10:26:54 -> SockDemon->Read(szBuff, 8) OK
+04/13/05 10:26:54 -> SonicOK!
+04/13/05 10:26:54 -> Client Thread Create OK
+04/13/05 10:26:54 -> -- Start WM_SOCKEVENT_RSUP
+04/13/05 10:26:54 -> Start Client Thread...
+04/13/05 10:26:54 -> Init Service
+04/13/05 10:26:54 -> SetSystemHookEx
+04/13/05 10:26:54 -> Sended Message to RView Agent
+04/13/05 10:26:54 -> EventWindow - STATUS_CONNECT
+04/13/05 10:27:02 -> LogOff ~~~
+04/13/05 10:27:02 -> Init Service
+04/13/05 10:27:02 -> SetSystemHookEx
+04/13/05 10:56:21 -> Socket.ReadExact() Error
+04/13/05 10:56:21 -> WSAGetLastError() = 183
+04/13/05 10:56:21 -> RemoteControl End!
+04/13/05 10:56:21 -> Thread window Closed
+04/13/05 10:56:27 -> Use WinSock2
+04/13/05 10:56:27 -> CreateEventWindow() Start
+04/13/05 10:56:27 -> CreateEventWindow() End
+04/13/05 10:56:27 -> SvcAddr:218.237.53.142, SvcPort:443
+04/13/05 10:56:27 -> SvrAddr:10.141.14.215, SvrPort:9600
+04/13/05 10:56:27 -> ProxyAddr:, ProxyPort:0
+04/13/05 10:56:27 -> Config:
+04/13/05 10:56:27 -> Try Direct Connectting...
+04/13/05 10:56:27 -> Direct Connect to Addr:10.141.14.215, Port:9600
+04/13/05 10:56:30 -> Rsup Connect failed. Time out
+04/13/05 10:56:30 -> Try Demon Connectting...
+04/13/05 10:56:30 -> SockDemon->Read(szBuff, 8) OK
+04/13/05 10:56:30 -> SonicOK!
+04/13/05 10:56:30 -> Client Thread Create OK
+04/13/05 10:56:30 -> Start Client Thread...
+04/13/05 10:56:30 -> -- Start WM_SOCKEVENT_RSUP
+04/13/05 10:56:30 -> Init Service
+04/13/05 10:56:30 -> SetSystemHookEx
+04/13/05 10:56:31 -> Sended Message to RView Agent
+04/13/05 10:56:31 -> EventWindow - STATUS_CONNECT
+04/13/05 11:42:44 -> LogOff ~~~
+04/13/05 11:42:44 -> Init Service
+04/13/05 11:42:44 -> SetSystemHookEx
+04/13/05 11:42:49 -> Socket.ReadExact() Error
+04/13/05 11:42:49 -> WSAGetLastError() = 183
+04/13/05 11:42:49 -> RemoteControl End!
+04/13/05 11:42:49 -> Thread window Closed
+05/02/05 16:29:31 -> Use WinSock2
+05/02/05 16:29:31 -> CreateEventWindow() Start
+05/02/05 16:29:31 -> CreateEventWindow() End
+05/02/05 16:29:31 -> SvcAddr:218.237.53.142, SvcPort:443
+05/02/05 16:29:31 -> SvrAddr:10.141.14.215, SvrPort:9600
+05/02/05 16:29:31 -> ProxyAddr:, ProxyPort:0
+05/02/05 16:29:31 -> Config:
+05/02/05 16:29:31 -> Try Direct Connectting...
+05/02/05 16:29:31 -> Direct Connect to Addr:10.141.14.215, Port:9600
+05/02/05 16:29:34 -> Rsup Connect failed. Time out
+05/02/05 16:29:34 -> Try Demon Connectting...
+05/02/05 16:29:34 -> SockDemon->Read(szBuff, 8) OK
+05/02/05 16:29:34 -> SonicEND
+05/02/05 16:29:34 -> -- Start WM_SOCKEVENT_RSUP
+05/02/05 16:29:34 -> EventWindow - UM_REMOTECALL_ERROR
+05/02/05 16:30:45 -> Use WinSock2
+05/02/05 16:30:45 -> CreateEventWindow() Start
+05/02/05 16:30:45 -> CreateEventWindow() End
+05/02/05 16:30:45 -> SvcAddr:218.237.53.142, SvcPort:443
+05/02/05 16:30:45 -> SvrAddr:10.141.14.215, SvrPort:9601
+05/02/05 16:30:45 -> ProxyAddr:, ProxyPort:0
+05/02/05 16:30:45 -> Config:
+05/02/05 16:30:45 -> Try Direct Connectting...
+05/02/05 16:30:45 -> Direct Connect to Addr:10.141.14.215, Port:9601
+05/02/05 16:30:48 -> Rsup Connect failed. Time out
+05/02/05 16:30:48 -> Try Demon Connectting...
+05/02/05 16:30:48 -> SockDemon->Read(szBuff, 8) OK
+05/02/05 16:30:48 -> SonicOK!
+05/02/05 16:30:48 -> Client Thread Create OK
+05/02/05 16:30:48 -> Start Client Thread...
+05/02/05 16:30:48 -> -- Start WM_SOCKEVENT_RSUP
+05/02/05 16:30:48 -> Init Service
+05/02/05 16:30:48 -> SetSystemHookEx
+05/02/05 16:30:48 -> Sended Message to RView Agent
+05/02/05 16:30:48 -> EventWindow - STATUS_CONNECT
+05/02/05 16:33:22 -> Socket.ReadExact() Error
+05/02/05 16:33:22 -> WSAGetLastError() = 183
+05/02/05 16:33:22 -> RemoteControl End!
+05/02/05 16:33:22 -> Thread window Closed

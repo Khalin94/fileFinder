@@ -1,0 +1,19 @@
+<!ELEMENT req_doc_info (req_doc_no , cmt_oragn , req_organ_nm , ans_organ_nm , req_dt , req_box_nm , sumit_dln , req_rep , req_tel , reqlist)>
+<!ELEMENT req_doc_no (#PCDATA)>
+<!ELEMENT cmt_oragn (#PCDATA)>
+<!ELEMENT req_organ_nm (#PCDATA)>
+<!ELEMENT ans_organ_nm (#PCDATA)>
+<!ELEMENT req_dt (#PCDATA)>
+<!ELEMENT req_box_nm (#PCDATA)>
+<!ELEMENT sumit_dln (#PCDATA)>
+<!ELEMENT req_rep (#PCDATA)>
+<!ELEMENT req_tel (#PCDATA)>
+<!ELEMENT reqlist (reqinfo*)>
+<!ELEMENT reqinfo (req_no , req_cont , req_dtl_cont)>
+<!ELEMENT req_no (#PCDATA)>
+<!ELEMENT req_cont (#PCDATA)>
+<!ELEMENT req_dtl_cont (#PCDATA)>
+
+
+
+

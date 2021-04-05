@@ -1,0 +1,63 @@
+1.
+
+
+1. WebApp 내용 복사.
+
+TestDSDMDomain.../WebApp/    아래 내용들을 복사.
+ /WEB_INF 폴더는 복사하지 않음.
+
+DSDM 은 /WebApp --> '/'
+egsign은 /egsign --->'/egsign'
+
+
+2. 웹서버에 복사할 내용들은 웹서버에 복사함.
+
+3 자바 파일 복사.
+/app/weblogic/bea/user_projects/NADS/src/DSDM/App/nads/dsdm/app
+/app/weblogic/bea/user_projects/NADS/src/DSDM/Ejbs/nads/dsdm/ejbs
+
+4. ant 실행
+/app/weblogic/bea/user_projects/NADS/ant
+/app/weblogic/bea/user_projects/NADS/dist/EXTEND/Framework
+
+ant deployTestLib
+ant -Dpkg_dir=nads/dsdm/ejbs/activity deployTestDSDMEjbs
+ant -Dpkg_dir=nads/dsdm/ejbs/board deployTestDSDMEjbs
+ant -Dpkg_dir=nads/dsdm/ejbs/common deployTestDSDMEjbs
+ant -Dpkg_dir=nads/dsdm/ejbs/forum deployTestDSDMEjbs
+ant -Dpkg_dir=nads/dsdm/ejbs/infosearch deployTestDSDMEjbs
+ant -Dpkg_dir=nads/dsdm/ejbs/join deployTestDSDMEjbs
+ant -Dpkg_dir=nads/dsdm/ejbs/reqsubmit deployTestDSDMEjbs
+ant -Dpkg_dir=nads/dsdm/ejbs/messenger deployTestDSDMEjbs
+ant -Dpkg_dir=nads/dsdm/ejbs/main deployTestDSDMEjbs
+ant deployTestDSDMApp (마지막 부분에서 항상 실행)
+
+5. webconsole에서 deploy
+
+http://10.201.60.4:9001/console/login
+
+weblogic/testdsdmadmin/testssadmin
+ Location: 10.201.60.4 / app / weblogic / bea / user_projects / NADS / test_dist 
+
+ 
+
+*** 서버 시작/중지 **
+stopAdmin.sh
+startAdmin.sh
+
+
+
+
+********운영************
+ant deployRealLib
+ant -Dpkg_dir=nads/dsdm/ejbs/board deployRealDSDMEjbs
+ant -Dpkg_dir=nads/dsdm/ejbs/common deployRealDSDMEjbs
+ant -Dpkg_dir=nads/dsdm/ejbs/forum deployRealDSDMEjbs
+ant -Dpkg_dir=nads/dsdm/ejbs/infosearch deployRealDSDMEjbs
+ant -Dpkg_dir=nads/dsdm/ejbs/join deployRealDSDMEjbs
+ant -Dpkg_dir=nads/dsdm/ejbs/reqsubmit deployRealDSDMEjbs
+ant -Dpkg_dir=nads/dsdm/ejbs/messenger deployRealDSDMEjbs
+ant -Dpkg_dir=nads/dsdm/ejbs/main deployRealDSDMEjbs
+ant -Dpkg_dir=nads/dsdm/ejbs/activity deployRealDSDMEjbs
+ant deployRealDSDMApp
+

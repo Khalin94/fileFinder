@@ -1,0 +1,9 @@
+/app/weblogic/bea/user_projects/NADS/ant
+
+dsdm_real.sh* : 사용자 실서버
+dsdm_test.sh* : 사용자 테스트
+ss_real.sh*   : 관리자 실서버
+ss_test.sh*   : 관리자 테스트
+
+
+/application/weblogic

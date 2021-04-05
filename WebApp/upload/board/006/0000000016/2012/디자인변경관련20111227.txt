@@ -1,0 +1,17 @@
+
+* 디자인 변경관련 참고 내용
+
+- /css2폴더안에 style.css, images2 는 모두 업데이트 
+
+- 로그인 페이지
+  : /login.jsp 참조
+
+- top 메뉴
+  : /inc/top_menu01.jsp, top_menu02.jsp, top_menu03.jsp, top_menu04.jsp, top_menu05.jsp
+
+- 서브디자인 수정 참고 파일 
+  : foundation/의원실_요구함조회_제출완료_상세보기.jsp
+
+- 서브디자인 마이페이지>기관정보관리 신규 디자인 적용
+  : 기관_home_나의페이지_기관정보관리_경찰청.jsp, 기관_home_나의페이지_기관정보관리_관계기관등록2.jsp
+    , 기관_home_나의페이지_기관정보관리_관계기관등록.jsp, 기관_home_나의페이지_기관정보관리_이력보기.jsp

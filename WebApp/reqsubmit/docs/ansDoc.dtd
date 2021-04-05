@@ -1,0 +1,14 @@
+<!ELEMENT ans_doc_info (ans_doc_no , submt_organ_nm , ans_per , reqbox_nm , last_ansDoc_SntDt , req_organ_nm , tel , anslist)>
+<!ELEMENT ans_doc_no (#PCDATA)>
+<!ELEMENT submt_organ_nm (#PCDATA)>
+<!ELEMENT ans_per (#PCDATA)>
+<!ELEMENT reqbox_nm (#PCDATA)>
+<!ELEMENT last_ansDoc_SntDt (#PCDATA)>
+<!ELEMENT req_organ_nm (#PCDATA)>
+<!ELEMENT tel (#PCDATA)>
+<!ELEMENT anslist (ansinfo*)>
+<!ELEMENT ansinfo (ans_no , req_cont , ans_cont)>
+<!ELEMENT ans_no (#PCDATA)>
+<!ELEMENT req_cont (#PCDATA)>
+<!ELEMENT ans_cont (#PCDATA)>
+
